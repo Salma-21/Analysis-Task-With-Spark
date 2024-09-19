@@ -1,1 +1,3 @@
 # Analysis-Task-With-Spark
+
+Developed a Spark application to analyze Wikimedia page view statistics, focusing on optimizing performance using both the MapReduce paradigm and Spark loops. Key tasks included computing the minimum, maximum, and average page size, analyzing page titles (e.g., identifying titles starting with "The" and excluding those in the English project), and determining the number of unique terms in page titles. Additionally, extracted repeated page titles and combined data of pages with identical titles for further analysis. Documented and compared the performance of queries using both approaches.
